@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Vinay</title>
+    <style>
+        
+        header{
+            height: 400px;
+            text-align: left;
+            background-image: url("hack.jpg");
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-position: center;
+            padding: 60px;
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+            
+        }
+        section.welcome{
+            margin: 10px;
+            padding: 10px;
+            background-color: black;
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        section.Aboutme{
+            text-align: center;
+            margin: 10px;
+            background-color: tomato;
+            height: 200px;
+            padding: 10px;
+        }
+        section.Skills{
+            text-align: center ;
+            color: white;
+            background-color: black;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 10px;
+        }
+        footer{
+            background-color: black;
+            padding: 10px;
+            margin: 10px;
+            opacity: 0.6;
+            color: white;
+           
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            Hi! I am Vinay</br>          
+        </h1>
+        <h2>I am a freshman at KIIT university </br></h2>
+    </header>
+    <section class="welcome">
+        <h1>Welcome!!</h1></br>
+        <h2>Welcome to my personal website.</h2></br>
+        Hello everyone , I am Vinaya kamal a freshman at KIIT</br>
+        If you are looking for a personal website for yourself</br>
+        I would love to help you. You can consider this website as one of my best works till date.</br>
+        I promise you that I would give you one of the best website, with the perfect design.
+
+    </section>
+    <section class="Aboutme">
+        <h1>About me</h1></br>
+        I am a self-taught web developer from Chennai, Tamil  Nadu.</br>
+        I am a coding enthusiast. I have been trying to learn more about the coding world.</br>
+        I am not perfect in coding and stuff , but  still learning and practicing to be perfect</br>
+        I am also a really ambitious guy, But not much of a hard worker.</br>
+        
+
+    </section>
+    <section class="Skills">
+        <h1>SKILLS</h1></br>
+        I dont have diverse skills , but trying my best to gain more skills.</br>
+        <h2>Programming languages</h2></br>
+        1) C</br>
+        2) html</br>
+        3) python</br>
+        <h2>Projects</h2></br>
+        Haven't really done anything. LOL!
+
+
+    </section>
+    <section>
+
+    </section>
+    <footer>
+        <ul>
+            <div>Phone no.</br>+917397599719</div>
+            <div>E-mail ID</br>vinaykamal2002@gmail.com</div>
+        </ul>
+    </footer>
+    
+</body>
+</html>
